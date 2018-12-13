@@ -1,0 +1,10 @@
+{
+    "name": "deploy-pvc-separate",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "latest",
+        "@pulumi/kubernetes": "latest"
+    }
+}

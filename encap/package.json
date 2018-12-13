@@ -1,0 +1,16 @@
+{
+  "name": "deploy-pvc",
+  "version": "0.1.0",
+  "dependencies": {
+    "@pulumi/pulumi": "^0.16.6",
+    "@pulumi/random": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "typescript": "^2.5.3"
+  },
+  "peerDependencies": {
+    "@pulumi/kubernetes": "latest"
+  },
+  "license": "MIT"
+}
